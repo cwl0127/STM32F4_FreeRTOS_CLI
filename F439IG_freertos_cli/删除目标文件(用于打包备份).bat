@@ -1,0 +1,1 @@
+del /Q /S MDK-ARM\F439IG_freertos_cli\*.*
